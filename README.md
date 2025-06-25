@@ -2,7 +2,7 @@
 <h3 align="center">Frontend-Focused MERN Stack Developer | React & UI/UX Enthusiast</h3>
 
 <div align="center">
-  <img src="https://github.com/ahshasib/ahshasib/blob/main/animation.gif" alt="Animated Banner" width="80%" />
+  <img src="https://github.com/ahshasib/ahshasib/blob/main/img.jpg" alt="Animated Banner" width="80%" />
 </div>
 
 <p align="center">

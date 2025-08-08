@@ -14,14 +14,14 @@
 </p>
 
 <!-- About / Current Work -->
-<ul style="text-align: left; line-height: 1.6; font-size: 1.1rem; padding-left: 20px;">
-  <li>🔭 I’m currently working on <a href="https://funny-daffodil-350bc9.netlify.app/" target="_blank" style="color:#58a6ff;">House Rent</a></li>
-  <li>🌱 I’m currently learning <strong>Redux Toolkit, MongoDB Aggregation, JavaScript Mastery</strong></li>
-  <li>👯 I’m looking to collaborate on <a href="https://naxos.pages.dev/" target="_blank" style="color:#58a6ff;">NFT website</a></li>
-  <li>💬 Ask me about <strong>React.js & Component Architecture, Tailwind CSS & Responsive Design, Firebase Authentication & Firestore, MERN Stack (MongoDB, Express, React, Node.js), Deployment (Vercel, Netlify, Firebase Hosting)</strong></li>
-  <li>📫 How to reach me: <a href="mailto:ahshasibul6@gmail.com" style="color:#58a6ff;">ahshasibul6@gmail.com</a></li>
-  <li>⚡ Fun fact: <em>I believe good design is invisible and great coffee fuels great code. ☕💻</em></li>
-</ul>
+<p style="text-align: left; line-height: 1.6; font-size: 1.1rem; padding-left: 20px;">
+  🔭 I’m currently working on <a href="https://funny-daffodil-350bc9.netlify.app/" target="_blank" style="color:#58a6ff;">House Rent</a>
+  🌱 I’m currently learning <strong>Redux Toolkit, MongoDB Aggregation, JavaScript Mastery</strong>
+  👯 I’m looking to collaborate on <a href="https://naxos.pages.dev/" target="_blank" style="color:#58a6ff;">NFT website</a>
+  💬 Ask me about <strong>React.js & Component Architecture, Tailwind CSS & Responsive Design, Firebase Authentication & Firestore, MERN Stack (MongoDB, Express, React, Node.js), Deployment (Vercel, Netlify, Firebase Hosting)</strong>
+  📫 How to reach me: <a href="mailto:ahshasibul6@gmail.com" style="color:#58a6ff;">ahshasibul6@gmail.com</a>
+  ⚡ Fun fact: <em>I believe good design is invisible and great coffee fuels great code. ☕💻</em>
+</p>
 
 <!-- Connect with me -->
 <h3 style="color:#79c0ff; margin-top: 40px; text-align: left;">Connect with me:</h3>

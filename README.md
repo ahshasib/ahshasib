@@ -5,7 +5,7 @@
 
 <!-- Animated Banner Image -->
 <div align="center" style="max-width: 90%; border-radius: 12px; overflow: hidden; box-shadow: 0 10px 20px rgba(0,0,0,0.7); animation: pulse 3s infinite;">
-  <img src="https://github.com/ahshasib/ahshasib/blob/main/img.jpg" alt="Animated Banner" width="100%" style="border-radius: 12px;" />
+  <img src="https://i.ibb.co.com/5gsSzhwM/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png" alt="Animated Banner" width="100%" style="border-radius: 12px;" />
 </div>
 
 <!-- Profile views badge -->

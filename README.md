@@ -9,7 +9,7 @@
 </div>
 
 <!-- Profile views badge -->
-<p align="center" style="margin: 20px 0;">
+<p  style="margin: 20px 0;">
   <img src="https://komarev.com/ghpvc/?username=ahshasib&label=Profile%20views&color=58a6ff&style=flat-square" alt="Profile views" />
 </p>
 

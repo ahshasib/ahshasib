@@ -26,7 +26,7 @@
 <!-- Connect with me -->
 <h3 style="color:#79c0ff; margin-top: 40px; text-align: left;">Connect with me:</h3>
 <p style="text-align: left;">
-  <a href="https://linkedin.com/in/hasibul-islam" target="_blank" rel="noopener" style="margin-right: 15px; display: inline-block; background: #161b22; padding: 5px 8px; border-radius: 8px;">
+  <a href="https://www.linkedin.com/in/hasibul-islam22" target="_blank" rel="noopener" style="margin-right: 15px; display: inline-block; background: #161b22; padding: 5px 8px; border-radius: 8px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
   </a>
 </p>

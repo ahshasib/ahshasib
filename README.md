@@ -14,14 +14,14 @@
 </p>
 
 <!-- About / Current Work -->
-
- <p style="text-align: left; line-height: 1.6; font-size: 1.1rem; padding-left: 20px;"> 🔭 I’m currently working on <a href="https://funny-daffodil-350bc9.netlify.app/" target="_blank" style="color:#58a6ff;">House Rent</a><br></p>
+ <p style="text-align: left; line-height: 1.6; font-size: 1.1rem; padding-left: 20px;">
+ 🔭 I’m currently working on <a href="https://funny-daffodil-350bc9.netlify.app/" target="_blank" style="color:#58a6ff;">House Rent</a><br>
   🌱 I’m currently learning <strong>Redux Toolkit, MongoDB Aggregation, JavaScript Mastery</strong><br>
   👯 I’m looking to collaborate on <a href="https://naxos.pages.dev/" target="_blank" style="color:#58a6ff;">NFT website</a><br>
   💬 Ask me about <strong>React.js & Component Architecture, Tailwind CSS & Responsive Design, Firebase Authentication & Firestore, MERN Stack (MongoDB, Express, React, Node.js), Deployment (Vercel, Netlify, Firebase Hosting)</strong><br>
   📫 How to reach me: <a href="mailto:ahshasibul6@gmail.com" style="color:#58a6ff;">ahshasibul6@gmail.com</a><br>
   ⚡ Fun fact: <em>I believe good design is invisible and great coffee fuels great code. ☕💻</em><br>
-
+ </p>
 
 <!-- Connect with me -->
 <h3 style="color:#79c0ff; margin-top: 40px; text-align: left;">Connect with me:</h3>
@@ -82,12 +82,6 @@
 </p>
 
 <!-- GitHub Stats -->
-<div align="center" style="margin-top: 40px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahshasib&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="80%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.8);" />
-</div>
 
-<div align="center" style="margin-top: 30px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahshasib&theme=dark" alt="GitHub Streak" width="80%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.8);" />
-</div>
 
 <div align="center" style="margin-top

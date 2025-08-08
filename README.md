@@ -1,4 +1,4 @@
-<div align="center" style="background-color:#0d1117; padding: 30px 20px; border-radius: 15px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #c9d1d9; max-width: 900px; margin: auto;">
+<div align="center" style="background-color:#0d1117; padding: 30px 20px; border-radius: 15px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #c9d1d9; max-width: 100%; margin: auto;">
 
 <h1 align="center" style="color:#58a6ff; font-weight: 700; animation: fadeInDown 1s ease;">Hi 👋, I'm Hasibul Islam</h1>
 <h3 align="center" style="color:#79c0ff; font-weight: 600; margin-bottom: 30px; animation: fadeInUp 1s ease;">Frontend-Focused MERN Stack Developer | React & UI/UX Enthusiast</h3>
@@ -15,12 +15,12 @@
 
 <!-- About / Current Work -->
 <p style="text-align: left; line-height: 1.6; font-size: 1.1rem; padding-left: 20px;">
-  🔭 I’m currently working on <a href="https://funny-daffodil-350bc9.netlify.app/" target="_blank" style="color:#58a6ff;">House Rent</a>
-  🌱 I’m currently learning <strong>Redux Toolkit, MongoDB Aggregation, JavaScript Mastery</strong>
-  👯 I’m looking to collaborate on <a href="https://naxos.pages.dev/" target="_blank" style="color:#58a6ff;">NFT website</a>
-  💬 Ask me about <strong>React.js & Component Architecture, Tailwind CSS & Responsive Design, Firebase Authentication & Firestore, MERN Stack (MongoDB, Express, React, Node.js), Deployment (Vercel, Netlify, Firebase Hosting)</strong>
-  📫 How to reach me: <a href="mailto:ahshasibul6@gmail.com" style="color:#58a6ff;">ahshasibul6@gmail.com</a>
-  ⚡ Fun fact: <em>I believe good design is invisible and great coffee fuels great code. ☕💻</em>
+  🔭 I’m currently working on <a href="https://funny-daffodil-350bc9.netlify.app/" target="_blank" style="color:#58a6ff;">House Rent</a><br>
+  🌱 I’m currently learning <strong>Redux Toolkit, MongoDB Aggregation, JavaScript Mastery</strong><br>
+  👯 I’m looking to collaborate on <a href="https://naxos.pages.dev/" target="_blank" style="color:#58a6ff;">NFT website</a><br>
+  💬 Ask me about <strong>React.js & Component Architecture, Tailwind CSS & Responsive Design, Firebase Authentication & Firestore, MERN Stack (MongoDB, Express, React, Node.js), Deployment (Vercel, Netlify, Firebase Hosting)</strong><br>
+  📫 How to reach me: <a href="mailto:ahshasibul6@gmail.com" style="color:#58a6ff;">ahshasibul6@gmail.com</a><br>
+  ⚡ Fun fact: <em>I believe good design is invisible and great coffee fuels great code. ☕💻</em><br>
 </p>
 
 <!-- Connect with me -->

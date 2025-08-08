@@ -82,12 +82,6 @@
 </p>
 
 <!-- GitHub Stats -->
-<div align="center" style="margin-top: 40px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahshasib&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="80%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.8);" />
-</div>
 
-<div align="center" style="margin-top: 30px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahshasib&theme=dark" alt="GitHub Streak" width="80%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.8);" />
-</div>
 
 <div align="center" style="margin-top

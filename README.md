@@ -15,7 +15,7 @@
 
 <!-- About / Current Work -->
 
-  🔭 I’m currently working on <a href="https://funny-daffodil-350bc9.netlify.app/" target="_blank" style="color:#58a6ff;">House Rent</a><br>
+ <p style="text-align: left; line-height: 1.6; font-size: 1.1rem; padding-left: 20px;"> 🔭 I’m currently working on <a href="https://funny-daffodil-350bc9.netlify.app/" target="_blank" style="color:#58a6ff;">House Rent</a><br></p>
   🌱 I’m currently learning <strong>Redux Toolkit, MongoDB Aggregation, JavaScript Mastery</strong><br>
   👯 I’m looking to collaborate on <a href="https://naxos.pages.dev/" target="_blank" style="color:#58a6ff;">NFT website</a><br>
   💬 Ask me about <strong>React.js & Component Architecture, Tailwind CSS & Responsive Design, Firebase Authentication & Firestore, MERN Stack (MongoDB, Express, React, Node.js), Deployment (Vercel, Netlify, Firebase Hosting)</strong><br>

@@ -129,7 +129,7 @@ I’m always eager to learn new skills and collaborate on open-source projects. 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahshasib&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
 </a>
 
-<div align="center" style="margin-top: 30px;">
+<div align="left" style="margin-top: 30px;">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=ahshasib&theme=dark" 
     alt="GitHub Streak" 

@@ -130,8 +130,13 @@ I’m always eager to learn new skills and collaborate on open-source projects. 
 </a>
 
 <div align="center" style="margin-top: 30px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahshasib&theme=dark" alt="GitHub Streak" width="80%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.8);" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ahshasib&theme=dark" 
+    alt="GitHub Streak" 
+    style="width: 80%; height: 200px; object-fit: cover; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.8);" 
+  />
 </div>
+
 
 
 </div>

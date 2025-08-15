@@ -105,7 +105,7 @@ I’m always eager to learn new skills and collaborate on open-source projects. 
     <img src="https://img.shields.io/badge/Follow%20me%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow me on GitHub"/>
   </a>
   <a href="tel:+8801959277169" target="_blank">
-    <img src="https://img.shields.io/badge/Call%20Me-%2B8801639448792-blue?style=for-the-badge&logo=phone" alt="Phone Number"/>
+    <img src="https://img.shields.io/badge/Call%20Me-%2B8801959277169-blue?style=for-the-badge&logo=phone" alt="Phone Number"/>
   </a>
 </p>
 
@@ -129,6 +129,10 @@ I’m always eager to learn new skills and collaborate on open-source projects. 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahshasib&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
 </a>
 
+
+</div>
+
+
 <div align="left" style="margin-top: 30px;">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=ahshasib&theme=dark" 
@@ -136,11 +140,6 @@ I’m always eager to learn new skills and collaborate on open-source projects. 
     style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.8);" 
   />
 </div>
-
-
-
-</div>
-
 
 ---
 

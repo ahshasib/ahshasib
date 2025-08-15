@@ -1,93 +1,176 @@
-<div align="center" style="background-color:#0d1117; padding: 30px 20px; border-radius: 15px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #c9d1d9; max-width: 100%; margin: auto;">
-
-<h1 align="center" style="color:#58a6ff; font-weight: 700; animation: fadeInDown 1s ease;">Hi 👋, I'm Hasibul Islam</h1>
-<h3 align="center" style="color:#79c0ff; font-weight: 600; margin-bottom: 30px; animation: fadeInUp 1s ease;">Frontend-Focused MERN Stack Developer | React & UI/UX Enthusiast</h3>
-
-<!-- Animated Banner Image -->
-<div align="center" style="max-width: 100%; border-radius: 12px; overflow: hidden; box-shadow: 0 10px 20px rgba(0,0,0,0.7); animation: pulse 3s infinite;">
-  <img src="https://i.ibb.co.com/5gsSzhwM/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png" alt="Animated Banner" width="100%" style="border-radius: 12px;" />
+ 
+ <!-- Banner Image -->
+<div align="center">
+  <img src="https://i.ibb.co.com/mrjpWQYw/g1.png" alt="Banner" width="100%" height="100%" />
 </div>
+<!-- Name & Designation -->
+<h1 align="center">Hi 👋, I'm Hasibul Islam</h1>
+<h3 align="center">Full Stack Web Developer | MERN Stack Developer </h3>
 
-<!-- Profile views badge -->
-<p align="center" style="margin: 20px 0;">
-  <img src="https://komarev.com/ghpvc/?username=ahshasib&label=Profile%20views&color=58a6ff&style=flat-square" alt="Profile views" />
+<!-- Profile Views Counter -->
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=ahshasib&label=Profile%20views&color=58a6ff&style=flat-square" alt="Profile views" />
 </p>
 
-<!-- About / Current Work -->
- <p style="text-align: left; line-height: 1.6; font-size: 1.1rem; padding-left: 20px;">
- 🔭 I’m currently working on <a href="https://funny-daffodil-350bc9.netlify.app/" target="_blank" style="color:#58a6ff;">House Rent</a><br>
-  🌱 I’m currently learning <strong>Redux Toolkit, MongoDB Aggregation, JavaScript Mastery</strong><br>
-  👯 I’m looking to collaborate on <a href="https://naxos.pages.dev/" target="_blank" style="color:#58a6ff;">NFT website</a><br>
-  💬 Ask me about <strong>React.js & Component Architecture, Tailwind CSS & Responsive Design, Firebase Authentication & Firestore, MERN Stack (MongoDB, Express, React, Node.js), Deployment (Vercel, Netlify, Firebase Hosting)</strong><br>
-  📫 How to reach me: <a href="mailto:ahshasibul6@gmail.com" style="color:#58a6ff;">ahshasibul6@gmail.com</a><br>
-  ⚡ Fun fact: <em>I believe good design is invisible and great coffee fuels great code. ☕💻</em><br>
- </p>
 
-<!-- Connect with me -->
-<h3 style="color:#79c0ff; margin-top: 40px; text-align: left;">Connect with me:</h3>
-<p style="text-align: left;">
-  <a href="https://www.linkedin.com/in/hasibul-islam22" target="_blank" rel="noopener" style="margin-right: 15px; display: inline-block; background: #161b22; padding: 5px 8px; border-radius: 8px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+---
+
+## 🚀 About Me
+
+Hi, I’m Hasibul Islam — a passionate Full Stack Developer from Khulna, Bangladesh.
+I love building web applications using modern technologies like React, Node.js, and Tailwind CSS.
+Currently, I’m exploring Next.js and TypeScript, and working on projects that combine usability with clean design.
+
+I’m always eager to learn new skills and collaborate on open-source projects. Let’s connect!
+
+---
+
+## 🔭 Current Activities
+
+- 🌱 I'm currently exploring **Next.js**,**TypeScript** and modern React patterns
+- 💻 I'm working on a **E-commerce** project
+- 🎯 Learning advanced **MongoDB** aggregation pipelines  
+- 📚 Studying **Computer Engineering** at Northern University Khulna
+- 🏏 Playing cricket in my free time
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+   <img src="https://img.shields.io/badge/DaisyUI-4A4AFF?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
+</p>
+
+
+### Backend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
+
+
+### Database
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+
+### Tools & Version Control
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+  
+</p>
+
+
+
+### Deployment & Hosting
+<p align="left">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hasibul-islam22/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+ <a href="https://mrhasibportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Portfolio"
+  />
+</a>
+  <a href="https://www.facebook.com/profile.php?id=61558822207518" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:ahshasibul6@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/ahshasib" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20me%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow me on GitHub"/>
+  </a>
+  <a href="tel:+8801959277169" target="_blank">
+    <img src="https://img.shields.io/badge/Call%20Me-%2B8801639448792-blue?style=for-the-badge&logo=phone" alt="Phone Number"/>
   </a>
 </p>
 
-<!-- Skills & Tools -->
-<h3 style="color:#79c0ff; margin-top: 40px; text-align: left;">Languages and Tools:</h3>
-<p style="text-align: left; display: flex; flex-wrap: wrap; gap: 12px; padding: 0;">
-  <a href="https://angular.io" target="_blank" rel="noopener" style="background: #161b22; padding: 6px; border-radius: 10px;">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a>
-  <a href="https://babeljs.io/" target="_blank" rel="noopener" style="background: #161b22; padding: 6px; border-radius: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noopener" style="background: #161b22; padding: 6px; border-radius: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener" style="background: #161b22; padding: 6px; border-radius: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noopener" style="background: #161b22; padding: 6px; border-radius: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noopener" style="background: #161b22; padding: 6px; border-radius: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener" style="background: #161b22; padding: 6px; border-radius: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noopener" style="background: #161b22; padding: 6px; border-radius: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noopener" style="background: #161b22; padding: 6px; border-radius: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener" style="background: #161b22; padding: 6px; border-radius: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noopener" style="background: #161b22; padding: 6px; border-radius: 10px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noopener" style="background: #161b22; padding: 6px; border-radius: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noopener" style="background: #161b22; padding: 6px; border-radius: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener" style="background: #161b22; padding: 6px; border-radius: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noopener" style="background: #161b22; padding: 6px; border-radius: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-</p>
 
-<!-- GitHub Stats -->
-<div align="center" style="margin-top: 40px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahshasib&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="80%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.8);" />
-</div>
+
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ahshasib&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+ 
+ 
+
+  <!-- Most Used Languages -->
+  <a href="https://github.com/ahshasib">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahshasib&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
+</a>
 
 <div align="center" style="margin-top: 30px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahshasib&theme=dark" alt="GitHub Streak" width="80%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.8);" />
 </div>
 
-<div align="center" style="margin-top
+
+</div>
+
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahshasib&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahshasib&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+<div align="center">
+  <h3>💭 Quote of the Day</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Inspirational Quote - Radical" />
+
+</div>
+
+---
+
+<div align="center">
+  
+  **"Building the web, one component at a time"** 💻✨
+  
+  *Thanks for visiting my profile! Feel free to reach out for collaborations or just to chat about tech!*
+  
+</div>
+
+
+ 

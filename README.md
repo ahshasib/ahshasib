@@ -133,7 +133,7 @@ I’m always eager to learn new skills and collaborate on open-source projects. 
 </div>
 
 
-<div align="left" style="margin-top: 30px;">
+<div align="center" style="margin-top: 30px;">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=ahshasib&theme=dark" 
     alt="GitHub Streak" 

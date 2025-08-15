@@ -30,7 +30,7 @@ I’m always eager to learn new skills and collaborate on open-source projects. 
 - 🌱 I'm currently exploring **Next.js**,**TypeScript** and modern React patterns
 - 💻 I'm working on a **E-commerce** project
 - 🎯 Learning advanced **MongoDB** aggregation pipelines  
-- 📚 Studying **Computer Engineering** at Northern University Khulna
+- 📚 Studying **Computer Science Engineering** at Northern University Khulna
 - 🏏 Playing cricket in my free time
 
 ---

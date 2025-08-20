@@ -1,7 +1,7 @@
  
  <!-- Banner Image -->
 <div align="center">
-  <img src="[https://i.ibb.co.com/mrjpWQYw/g1.png](https://i.ibb.co.com/8LmQFzRS/Green-White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png)" alt="Banner" width="100%" height="100%" />
+  <img src="https://i.ibb.co.com/8LmQFzRS/Green-White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png" alt="Banner" width="100%" height="100%" />
 </div>
 <!-- Name & Designation -->
 <h1 align="center">Hi 👋, I'm Hasibul Islam</h1>
